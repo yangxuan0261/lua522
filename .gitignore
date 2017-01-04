@@ -1,3 +1,6 @@
 /.vs
 /Debug
 /lua5.2.2/Debug
+/lua5.2.2.sdf
+/lua5.2.2.opensdf
+/TestLua/Debug
